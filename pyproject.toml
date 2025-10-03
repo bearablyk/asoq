@@ -19,6 +19,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/asoq"
-Issues = "https://github.com/your-username/asoq/issues"
+Homepage = "https://github.com/bearablyk/asoq"
+Issues = "https://github.com/bearablyk/asoq/issues"
 
