@@ -1,7 +1,6 @@
 # ASOQ - Asynchronous Simple In-Memory Queue
 
 [![PyPI Version](https://img.shields.io/pypi/v/asoq.svg)](https://pypi.org/project/asoq/)
-[![Build Status](https://img.shields.io/travis/com/yourusername/asoq.svg)](https://travis-ci.com/yourusername/asoq)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ASOQ is a minimalist, zero-dependency background task processor for Python, designed for simple, in-memory asynchronous execution. It's perfect for Django applications that need to offload long-running, non-critical tasks from the request-response cycle without the overhead of setting up external brokers like Redis or RabbitMQ.
